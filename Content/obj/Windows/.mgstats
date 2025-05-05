@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/programering/Slutprojekt/Content/blaster-2-81267.mp3","C:/programering/Slutprojekt/Content/bin/Windows/pew1.xnb","SoundEffectProcessor","SoundEffectContent",38400,184425,0,584448
+"C:/programering/Slutprojekt/Content/blaster-2-81267_A_minor__bpm_94.mp3","C:/programering/Slutprojekt/Content/bin/Windows/pew2.xnb","SoundEffectProcessor","SoundEffectContent",78720,377961,0,1585914
+"C:/programering/Slutprojekt/Content/blaster-2-81267_A♭_minor__bpm_94.mp3","C:/programering/Slutprojekt/Content/bin/Windows/pew3.xnb","SoundEffectProcessor","SoundEffectContent",78720,377961,0,167852
+"C:/programering/Slutprojekt/Content/blaster-2-81267_B♭_minor__bpm_94.mp3","C:/programering/Slutprojekt/Content/bin/Windows/pew4.xnb","SoundEffectProcessor","SoundEffectContent",78720,377961,0,1773513
+"C:/programering/Slutprojekt/Content/blaster-2-81267_G♭_minor__bpm_94.mp3","C:/programering/Slutprojekt/Content/bin/Windows/pew5.xnb","SoundEffectProcessor","SoundEffectContent",78720,377961,0,1948261
+"C:/programering/Slutprojekt/Content/GameOver.spritefont","C:/programering/Slutprojekt/Content/bin/Windows/GameOver.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,4724444
+"C:/programering/Slutprojekt/Content/Score.spritefont","C:/programering/Slutprojekt/Content/bin/Windows/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,036794

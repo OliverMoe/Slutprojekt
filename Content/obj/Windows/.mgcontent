@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/programering/Slutprojekt/Content/blaster-2-81267.mp3</File>
+    <File>C:/programering/Slutprojekt/Content/blaster-2-81267_A_minor__bpm_94.mp3</File>
+    <File>C:/programering/Slutprojekt/Content/blaster-2-81267_A♭_minor__bpm_94.mp3</File>
+    <File>C:/programering/Slutprojekt/Content/blaster-2-81267_B♭_minor__bpm_94.mp3</File>
+    <File>C:/programering/Slutprojekt/Content/blaster-2-81267_G♭_minor__bpm_94.mp3</File>
+    <File>C:/programering/Slutprojekt/Content/GameOver.spritefont</File>
+    <File>C:/programering/Slutprojekt/Content/Score.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>pew1.mp3</File>
+    <File>pew2.mp3</File>
+    <File>pew3.mp3</File>
+    <File>pew4.mp3</File>
+    <File>pew5.mp3</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

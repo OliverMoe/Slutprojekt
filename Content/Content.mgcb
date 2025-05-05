@@ -1,0 +1,79 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin blaster-2-81267.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:blaster-2-81267.mp3;pew1.mp3
+
+#begin blaster-2-81267_A_minor__bpm_94.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:blaster-2-81267_A_minor__bpm_94.mp3;pew2.mp3
+
+#begin blaster-2-81267_A♭_minor__bpm_94.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:blaster-2-81267_A♭_minor__bpm_94.mp3;pew3.mp3
+
+#begin blaster-2-81267_B♭_minor__bpm_94.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:blaster-2-81267_B♭_minor__bpm_94.mp3;pew4.mp3
+
+#begin blaster-2-81267_G♭_minor__bpm_94.mp3
+/importer:Mp3Importer
+/processor:SoundEffectProcessor
+/processorParam:Quality=Best
+/build:blaster-2-81267_G♭_minor__bpm_94.mp3;pew5.mp3
+
+#begin File.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:File.spritefont;Retry.spritefont
+
+#begin GameOver.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:GameOver.spritefont
+
+#begin Highscore.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Highscore.spritefont
+
+#begin retro-coin-3-236679.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:retro-coin-3-236679.mp3;ScoreSFX.mp3
+
+#begin Score.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Score.spritefont
+
