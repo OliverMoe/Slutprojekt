@@ -66,7 +66,6 @@ public class Game1 : Game
         pixel = new Texture2D(GraphicsDevice,1,1);
         pixel.SetData(new Color[]{Color.White});
         pewSFX = Content.Load<SoundEffect>("pew1");
-        //scoreSFX = Content.Load<SoundEffect>("ScoreSFX");
         scoreFont = Content.Load<SpriteFont>("Score");
         gameOverFont = Content.Load<SpriteFont>("GameOver");
         HscoreFont = Content.Load<SpriteFont>("Highscore");
@@ -116,7 +115,6 @@ public class Game1 : Game
                 if(Enemies[i-1].Enemy.Intersects(b.Bullet)){
                     Enemies.RemoveAt(i-1);
                     score++;
-                    //scoreSFX.Play();
                 }
             }
 
